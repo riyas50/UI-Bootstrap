@@ -1,0 +1,1 @@
+var app = angular.module('ui.bootstrap.tutorials',['ngAnimate','ui.bootstrap']);
